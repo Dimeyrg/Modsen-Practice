@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRUDWebAPI",
+    "\\CRUDWebAPI\\CRUDWebAPI",
+    "\\CRUDWebAPI\\CRUDWebAPI\\Controllers",
+    "\\CRUDWebAPI\\CRUDWebAPI\\Migrations",
+    "\\CRUDWebAPI\\CRUDWebAPI\\Models",
+    "\\CRUDWebAPI\\CRUDWebAPI\\Models\\Mapping",
+    "\\CRUDWebAPI\\CRUDWebAPI\\Models\\Validators",
+    "\\CRUDWebAPI\\CRUDWebAPI\\Properties"
+  ],
+  "SelectedNode": "\\CRUDWebAPI\\CRUDWebAPI\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
